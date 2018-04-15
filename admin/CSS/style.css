@@ -1,0 +1,39 @@
+*{ margin: 0px;
+ padding: 0px;
+    
+}
+.navbar{
+    margin-top: 20px;
+}
+.home:hover{
+    color: red;
+}
+.glyphicon-trash{
+    text-align: center;
+}
+.modal-header, h4, .close {
+      background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+  .image{
+	height: 150px;
+	width: 150px;
+}
+.image_div{
+	border: 1px solid black;
+    display: inline-block;
+	height: 200px;
+	width: 152px;
+	margin: 5px;
+   
+}
+.glyphicon-ok{
+	padding-left: 77px;
+    font-size: 25px;
+    color: #58af58;
+}
